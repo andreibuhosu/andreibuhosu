@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrei</h1>
 <h3 align="center">A software developer from UK</h3>
 
-- 🔭 I’m currently working on **a web application**
+- 🔭 I’m currently working on **a web application using AngularJs and Spring Boot**
 
 - 🌱 I’m currently learning **AngularJS and TypeScript**
 
